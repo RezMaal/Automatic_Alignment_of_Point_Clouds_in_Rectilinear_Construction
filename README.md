@@ -36,9 +36,9 @@ As part of this Repository, two folders are provided:
 2- Algorithm 2 for Level II Complexity Stand-alone MATLAB App.
 
 # Citation
-The study is under review at the journal of Advances in Engineering Software, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
+The study is under review at Nature's Scientific Reports, where the mathematical formulations are explained in more detail. You may cite the study using the following information:
 
-Maalek, R. 2025. MATLAB App for the Automatic Alignment of Point Clouds and Digital Models in Rectilinear Building Construction, Advances in Engineering Software, under review.
+Maalek, R. 2025. MATLAB App for the Automatic Alignment of Point Clouds and Digital Models in Rectilinear Building Construction, Scientific Reports, under review.
 
 # Acknowledgements
 The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
